@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/292129110.svg)](https://zenodo.org/badge/latestdoi/292129110)
+
 # Overview
 This repository contains the source code for the experiments performed, and simulator software used, in the paper entitled "Gaining environments through shape change" submitted to Nature Machine Intelligence.
 
